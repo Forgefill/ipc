@@ -1,0 +1,3 @@
+D:/Mykhailo_Space/projects/IPC/mmap/cmake-build-debug/CMakeFiles/mmap.dir
+D:/Mykhailo_Space/projects/IPC/mmap/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Mykhailo_Space/projects/IPC/mmap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

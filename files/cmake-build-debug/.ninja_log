@@ -1,0 +1,11 @@
+# ninja log v5
+0	71	7221224264661583	CMakeFiles/files.dir/main.c.obj	fcd724b1aed9ba31
+72	149	7221224265411328	files.exe	dc5486a3cd99ecae
+1	68	7221225692402623	CMakeFiles/files.dir/main.c.obj	fcd724b1aed9ba31
+68	141	7221225693112067	files.exe	dc5486a3cd99ecae
+1	62	7221226225841632	CMakeFiles/files.dir/main.c.obj	fcd724b1aed9ba31
+63	133	7221226226521354	files.exe	dc5486a3cd99ecae
+1	73	7221227967235577	CMakeFiles/files.dir/main.c.obj	fcd724b1aed9ba31
+73	155	7221227968023408	files.exe	dc5486a3cd99ecae
+2	65	7221229181195101	CMakeFiles/files.dir/main.c.obj	fcd724b1aed9ba31
+65	136	7221229181877834	files.exe	dc5486a3cd99ecae
